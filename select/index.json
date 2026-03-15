@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Tiny Stars",
   "base_artist": "澁谷かのん (CV.伊達さゆり)、唐 可可 (CV.Liyuu)",
-  "createdAt": "2026-03-11T00:38:50.081633Z",
+  "createdAt": "2026-03-15T08:15:05.898795Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,14 @@
       "artist": "澁谷かのん (CV.伊達さゆり)、唐可可 (CV.Liyuu)",
       "has_synced": true,
       "path": "select/09_Tiny_Stars_(Off_Vocal)_澁谷かのん_(CV.伊達さゆり)、唐可可_(CV.Liyuu).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tiny Stars",
+      "artist": "澁谷かのん/唐可可",
+      "has_synced": true,
+      "path": "select/10_Tiny_Stars_澁谷かのん_唐可可.lrc"
     },
     {
       "id": "petitlyrics_1",
